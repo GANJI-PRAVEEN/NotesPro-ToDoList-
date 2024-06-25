@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/black"
+        android:alpha="0.5"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_gravity="center"
+        android:background="#E6E6FA"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/completedImage"
+            android:layout_gravity="center_horizontal"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="30dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:background="@drawable/account_image"/>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:backgroundTint="#FFE4B5"
+                android:background="#90EE90"
+                android:elevation="20dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:orientation="vertical">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Name "
+                            android:textColor="@color/black"
+                            android:textAlignment="center"
+                            android:layout_gravity="center"
+                            android:id="@+id/accountantName"
+                            android:textSize="20dp"
+                            android:fontFamily="@font/poppins_extrabold"/>
+
+                    <TextView
+                        android:id="@+id/accountantGender"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:fontFamily="@font/poppins_extrabold"
+                        android:text="Gender "
+                        android:textAlignment="center"
+                        android:textColor="@color/black"
+                        android:textSize="20dp" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Email "
+                        android:textColor="@color/black"
+                        android:textAlignment="center"
+                        android:layout_gravity="center"
+                        android:id="@+id/accountantEmail"
+                        android:textSize="20dp"
+                        android:fontFamily="@font/poppins_extrabold"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Password "
+                        android:textColor="@color/black"
+                        android:textAlignment="center"
+                        android:layout_gravity="center"
+                        android:id="@+id/accountantPassword"
+                        android:textSize="20dp"
+                        android:fontFamily="@font/poppins_extrabold"/>
+
+
+
+
+
+
+
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/moveButton"
+                android:textSize="14sp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="50dp"
+                android:background="@drawable/btn_background"
+                android:textColor="@color/black"
+                android:text="Move"
+                android:layout_marginBottom="30dp"
+                android:textAllCaps="false"/>
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</FrameLayout>

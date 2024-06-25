@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:gravity="center"
+    android:background="@drawable/background_image"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".SingUpActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="40dp"
+        app:cardCornerRadius="50dp"
+        android:layout_margin="20dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/poppins_extrabold"
+                android:gravity="center"
+                android:text="SingUp"
+                android:textAlignment="center"
+                android:textColor="@color/lavender"
+                android:textSize="34dp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center"
+                android:padding="24dp">
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Name"
+                    android:layout_margin="10dp"
+                    android:layout_gravity="center"
+                    android:id="@+id/editTxtName"
+                    android:textStyle="bold"
+                    android:background="@drawable/item_layout"
+                    android:textSize="18dp"
+                    android:drawableLeft="@drawable/account_name"
+                    android:padding="20sp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/item_layout"
+                    android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:src="@drawable/baseline_accessibility_24"
+                    android:layout_gravity="center"/>
+
+                <Spinner
+                    android:id="@+id/spinnerGender"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="20dp"
+                    android:layout_marginLeft="-25dp"
+                    android:textStyle="bold" />
+                </LinearLayout>
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Email"
+                    android:layout_margin="10dp"
+                    android:layout_gravity="center"
+                    android:id="@+id/editTxtEmail"
+                    android:textStyle="bold"
+                    android:background="@drawable/item_layout"
+                    android:textSize="18dp"
+                    android:drawableLeft="@drawable/baseline_attach_email_24"
+                    android:padding="20dp"/>
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Password"
+                    android:layout_margin="10dp"
+                    android:layout_gravity="center"
+                    android:id="@+id/editTxtPassword"
+                    android:textStyle="bold"
+                    android:background="@drawable/item_layout"
+                    android:textSize="18dp"
+                    android:drawableLeft="@drawable/password_icon"
+                    android:padding="20dp"/>
+
+                <ProgressBar
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_margin="40dp"
+                    android:visibility="gone"
+                    android:id="@+id/progreeBarAtSingUp"/>
+
+                <Button
+                    android:id="@+id/btnSingUp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="40dp"
+                    android:backgroundTint="@color/my_primary"
+                    android:fontFamily="@font/aclonica"
+                    android:text="SingUp"
+                    android:textColor="@color/black"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/Olduser"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/acme"
+                    android:gravity="center"
+                    android:text="Already have an Account..? Login..!"
+                    android:textAlignment="center"
+                    android:textColor="@color/lavender"
+                    android:textSize="18dp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
+

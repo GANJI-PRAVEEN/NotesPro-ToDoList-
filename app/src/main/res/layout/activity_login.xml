@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:gravity="center"
+    android:background="@drawable/login_background_image"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".SingUpActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="40dp"
+        app:cardCornerRadius="50dp"
+        android:layout_margin="20dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Login"
+                android:textSize="34dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textAlignment="center"
+                android:fontFamily="@font/poppins_extrabold"
+                android:textColor="@color/lavender"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center"
+                android:padding="24dp">
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Email"
+                    android:textColor="@color/black"
+                    android:layout_margin="10dp"
+                    android:layout_gravity="center"
+                    android:id="@+id/editTxtEmail"
+                    android:textStyle="bold"
+                    android:background="@drawable/item_layout"
+                    android:textSize="18dp"
+                    android:drawableLeft="@drawable/baseline_attach_email_24"
+                    android:padding="20dp"/>
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Password"
+                    android:textColor="@color/black"
+                    android:layout_margin="10dp"
+                    android:layout_gravity="center"
+                    android:id="@+id/editTxtPassword"
+                    android:textStyle="bold"
+                    android:background="@drawable/item_layout"
+                    android:textSize="18dp"
+                    android:drawableLeft="@drawable/password_icon"
+                    android:padding="20dp"/>
+
+                <ProgressBar
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_margin="40dp"
+                    android:visibility="gone"
+                    android:id="@+id/progreeBarAtLogin"/>
+
+                <Button
+                    android:id="@+id/btnLogin"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="40dp"
+                    android:backgroundTint="@color/my_primary"
+                    android:fontFamily="@font/aclonica"
+                    android:text="Login"
+                    android:textColor="@color/black"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/NewUser"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/acme"
+                    android:gravity="center"
+                    android:text="New User ...? Register"
+                    android:textAlignment="center"
+                    android:textColor="@color/lavender"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>

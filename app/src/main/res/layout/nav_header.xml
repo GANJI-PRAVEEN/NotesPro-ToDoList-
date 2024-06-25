@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:layout_marginBottom="20dp"
+    android:orientation="vertical"
+    android:background="@drawable/header_bkg"
+    android:theme="@style/Theme.Material3.Dark">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:id="@+id/txtHeaderName"
+        android:autoSizeMinTextSize="12dp"
+        android:autoSizeMaxTextSize="20dp"
+        android:textAlignment="center"
+        android:layout_marginLeft="170dp"
+        android:fontFamily="@font/arizonia"
+        android:gravity="center"
+        android:text="Praveen"
+        android:textColor="#FFEB3B"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+</LinearLayout>
