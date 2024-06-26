@@ -9,7 +9,7 @@
 </div>
  
 
-**Nowdays I Saw Students like having so much knowledge and Have That Power to Hardwork and They Can Do Anything and Learn Anything
+- **Nowdays I Saw Students like having so much knowledge and Have That Power to Hardwork and They Can Do Anything and Learn Anything
 but the very bad fact is that they are going in a loop of **compromising** this word compromise will pull legs into mud this happens through
 their unconscious mind.In this time they used to see the _motivation classes_ in the youtube,reels and other Entertainment Series and went into Depression sometimes
 but the good thing over here is that they want to learn something new they want to make difference in the society in their field**
@@ -32,7 +32,7 @@ _Planning means make notes of their tasks On Everyday Night Before bed, make not
 	<h2>What does listing the tasks will help you..?</h2>
 </div>
 
- If You Do making list of tasks it means  you are having a plan in your mind and clear vision about the work you have to do 
+- If You Do making list of tasks it means  you are having a plan in your mind and clear vision about the work you have to do 
 if you don't Have .... **you will got into _confusion_** and get depressed and  definitely you will give that time to entertainment activities(shorts,youtube,reels..etc)
 So To Avoid this you have to be busy in your work and you have to keep the works details in your mind so to do this you need to go through the notes list that made yesterday night and then you are now **planned** and you know what to do then you are on fire
 
