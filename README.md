@@ -64,7 +64,7 @@ So To Avoid this you have to be busy in your work and you have to keep the works
 
 ## Feautures:
 
-[^1]: Impressive UI ![Front Page Of the App](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/a4af534c-30a3-4790-aeea-5df62cf7bff1)
+1. Impressive UI ![Front Page Of the App](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/a4af534c-30a3-4790-aeea-5df62cf7bff1)
 [^2]: SignUp and Login Activity ![SignupActivity]
 [^3] Navigation Drawer ![NavigationView](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/01b78b14-b2a2-4ccc-a790-2c2afaf6cf2a)
 [^4]: Account Details ![Person Details](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/e56a1b24-7a81-4edd-af23-c68a6607780c)
