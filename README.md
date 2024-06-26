@@ -81,7 +81,6 @@ So To Avoid this you have to be busy in your work and you have to keep the works
 
 ### Front Page![](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/a4af534c-30a3-4790-aeea-5df62cf7bff1)
 
-<br><br>
 ### SignUp and Login Activity ![SignupActivity](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/c8c77f51-72e0-4bfe-8a78-863798058146)
 
 ### Navigation Drawer ![NavigationView](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/01b78b14-b2a2-4ccc-a790-2c2afaf6cf2a)
@@ -96,7 +95,7 @@ So To Avoid this you have to be busy in your work and you have to keep the works
 (https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/f106a0e0-b1dc-471e-884b-300e840f542a)
 Completion Theme  ![completion theme](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/7af72a56-6382-4f6d-a9f2-6ad8e732bb15)
 
-<br>
+<br><br>
 
 > [!IMPORTANT]
 > Our App Main Feauter is Notification You will be Notified On Time to Do Task
