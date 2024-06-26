@@ -28,8 +28,9 @@ and they want to be successful in life in their field and make proud of them and
 
 _Planning means make notes of their tasks On Everyday Night Before bed, make notes of your tasks you have to do tomorrow make a list of the tasks and wisely do the task tomorrow_
 
-
- ***What does listing the tasks will help you..?***
+<div align="center">
+	<h2>What does listing the tasks will help you..?</h2>
+</div>
 
  If You Do making list of tasks it means  you are having a plan in your mind and clear vision about the work you have to do 
 if you don't Have .... **you will got into _confusion_** and get depressed and  definitely you will give that time to entertainment activities(shorts,youtube,reels..etc)
