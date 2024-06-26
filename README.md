@@ -21,16 +21,13 @@ and they want to be successful in life in their field and make proud of them and
 
 <div align="center" style="font-family: Arial, sans-serif;">
   <h2>Solution</h2>
-  <p></p>
 </div>
 
  <div align="center">
-	<h1>So My Idea to those people is "Planning"(ToDoList)</h1>
+	<h3>So My Idea to those people is "Planning"(ToDoList)</h3>
 </div>
 
-******
-
-_Planning means make notes of their tasks On Everyday Night Before bed, make notes of your tasks you have to do tomorrow make a list of the tasks and wisely do the task tomorrow_
+- _Planning means make notes of their tasks On Everyday Night Before bed, make notes of your tasks you have to do tomorrow make a list of the tasks and wisely do the task tomorrow_
 
 <div align="center">
 	<h2>What does listing the tasks will help you..?</h2>
@@ -39,8 +36,8 @@ _Planning means make notes of their tasks On Everyday Night Before bed, make not
 - If You Do making list of tasks it means  you are having a plan in your mind and clear vision about the work you have to do 
 if you don't Have .... **you will got into _confusion_** and get depressed and  definitely you will give that time to entertainment activities(shorts,youtube,reels..etc)
 So To Avoid this you have to be busy in your work and you have to keep the works details in your mind so to do this you need to go through the notes list that made yesterday night and then you are now **planned** and you know what to do then you are on fire
-
-***So I have developed the ToDoList App to sole the problem which you can add notes everyday and get Notified with your specified Time***
+<div align="center">
+	<h3>***So I have developed the ToDoList App to sole the problem which you can add notes everyday and get Notified with your specified Time***</h3>
 <span style="background-color:yellow">Highlighted Text</span>
 ## Our App Aim : To add notes every day at anyTime with a specified time and get notified exactly on time and the UI Willl definitely impress You
 
