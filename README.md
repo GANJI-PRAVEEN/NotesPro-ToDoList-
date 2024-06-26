@@ -36,6 +36,7 @@ if you don't Have .... **you will got into _confusion_** and get depressed and  
 So To Avoid this you have to be busy in your work and you have to keep the works details in your mind so to do this you need to go through the notes list that made yesterday night and then you are now **planned** and you know what to do then you are on fire
 
 ***So I have developed the ToDoList App to sole the problem which you can add notes everyday and get Notified with your specified Time***
+<span style="background-color:yellow">Highlighted Text</span>
 ## Our App Aim : To add notes every day at anyTime with a specified time and get notified exactly on time and the UI Willl definitely impress You
 
 > **Tools Used**
