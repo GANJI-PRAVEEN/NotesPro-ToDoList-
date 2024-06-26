@@ -6,7 +6,7 @@
 ## Student MindSet Fact Give me a 3 min of time
 
 
-<div align="centre">
+<div align="center">
 	<h2>Problem</h2>
 
 **Nowdays I Saw Students like having so much knowledge and Have That Power to Hardwork and They Can Do Anything and Learn Anything
