@@ -4,13 +4,13 @@
 
 ### Problem:
 
-		 Nowdays I Saw Students like having so much knowledge and Have That Power to Hardwork and They Can Do Anything and Learn Anything
+		***Nowdays I Saw Students like having so much knowledge and Have That Power to Hardwork and They Can Do Anything and Learn Anything
 but the very bad fact is that they are going in a loop of **compromising** this word compromise will pull legs into mud this happens through
 their unconscious mind.In this time they used to see the _motivation classes_ in the youtube,reels and other Entertainment Series and went into Depression sometimes
-but the good thing over here is that they want to learn something new they want to make difference in the society in their field
+but the good thing over here is that they want to learn something new they want to make difference in the society in their field***
 
-		 So For those who having Good Mindset to do something new and to make difference among their surroundings to want to learn a big skill
-and they want to be successful in life in their field and make proud of them and their parents 
+		***So For those who having Good Mindset to do something new and to make difference among their surroundings to want to learn a big skill
+and they want to be successful in life in their field and make proud of them and their parents***
 ***I think this all will happen through their "hardwork" to be hardworking person in every moment***
 
 ### Solution :
@@ -20,7 +20,7 @@ and they want to be successful in life in their field and make proud of them and
 _Planning means make notes of their tasks On Everyday Night Before bed, make notes of your tasks you have to do tomorrow make a list of the tasks and wisely do the task tomorrow_
 
 
-### What does listing the tasks will help you..?
+ ***What does listing the tasks will help you..?***
 
  		 If You Do making list of tasks it means  you are having a plan in your mind and clear vision about the work you have to do 
 if you don't Have .... **you will got into _confusion_** and get depressed and  definitely you will give that time to entertainment activities(shorts,youtube,reels..etc)
