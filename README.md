@@ -74,8 +74,9 @@ So To Avoid this you have to be busy in your work and you have to keep the works
 2. SearchView Implementation 
 3. Adapter Class Implementation
 
-
-## Feautures:
+<div align="center">
+	<h1>Features</h1>
+</div>
 
  ![Front Page Of the App](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/a4af534c-30a3-4790-aeea-5df62cf7bff1)
 
