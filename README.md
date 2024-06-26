@@ -25,18 +25,6 @@ and they want to be successful in life in their field and make proud of them and
   <h2>Solution</h2>
   <p></p>
 </div>
-<style>
-  @font-face {
-    font-family: 'CustomFont';
-    src: url('https://example.com/fonts/CustomFont-Bold.woff2') format('woff2'),
-         url('https://example.com/fonts/CustomFont-Bold.woff') format('woff');
-    font-weight: 800; /* Extra bold weight */
-    font-style: normal;
-  }
-</style>
-<div align="center" style="font-family: 'CustomFont', sans-serif; font-weight: 800;">
-  <h2>Welcome to My Project!</h2>
-</div>
 	
 ***So My Idea to those people is "Planning"(ToDoList)***
 
