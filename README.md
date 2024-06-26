@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Welcome to My Project Notes Pro!</h1>
-  <p>This project is aimed at Complete All The Tasks On Time...</p>
+  <h2>This project is aimed at Complete All The Tasks On Time...</h2>
 </div>
 
 
