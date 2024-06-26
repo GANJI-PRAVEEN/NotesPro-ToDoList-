@@ -37,8 +37,9 @@ and they want to be successful in life in their field and make proud of them and
 if you don't Have .... **you will got into _confusion_** and get depressed and  definitely you will give that time to entertainment activities(shorts,youtube,reels..etc)
 So To Avoid this you have to be busy in your work and you have to keep the works details in your mind so to do this you need to go through the notes list that made yesterday night and then you are now **planned** and you know what to do then you are on fire
 <div align="center">
-	<h3>***So I have developed the ToDoList App to sole the problem which you can add notes everyday and get Notified with your specified Time***</h3>
-<span style="background-color:yellow">Highlighted Text</span>
+	<h3>So I have developed the ToDoList App to sole the problem which you can add notes everyday and get Notified with your specified Time</h3>
+
+ 
 ## Our App Aim : To add notes every day at anyTime with a specified time and get notified exactly on time and the UI Willl definitely impress You
 
 > **Tools Used**
