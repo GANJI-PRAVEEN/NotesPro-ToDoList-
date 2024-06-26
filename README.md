@@ -29,12 +29,12 @@ if you don't Have .... **you will got into _confusion_** and get depressed and  
 ***So I have developed the ToDoList App to sole the problem which you can add notes everyday and get Notified with your specified Time***
 ## Our App Aim : To add notes every day at anyTime with a specified time and get notified exactly on time and the UI Willl definitely impress You
 
-> [!Tools Used]
+> **Tools Used**
 - Android Studio
 * StackOverFlow
 + Google
 
-> [!Frontend Skills]
+> **Frontend Skills**
 1. Navigation View
 2. SearchView
 3. Menu
@@ -50,7 +50,7 @@ if you don't Have .... **you will got into _confusion_** and get depressed and  
 13. CardView
 
 
-> [!Backend Skills]
+> **Backend Skills**
 1. Firebase Connection
     - Database Management
       - FirebaseFirestore
