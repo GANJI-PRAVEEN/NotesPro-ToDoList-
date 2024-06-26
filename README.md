@@ -79,7 +79,7 @@ So To Avoid this you have to be busy in your work and you have to keep the works
 </div>
 
 
-### Front Page![Front Page Of App](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/a4af534c-30a3-4790-aeea-5df62cf7bff1)
+### Front Page![](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/a4af534c-30a3-4790-aeea-5df62cf7bff1)
 
 ### SignUp and Login Activity ![SignupActivity](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/c8c77f51-72e0-4bfe-8a78-863798058146)
 
