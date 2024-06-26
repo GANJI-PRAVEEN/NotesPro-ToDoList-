@@ -64,14 +64,25 @@ So To Avoid this you have to be busy in your work and you have to keep the works
 
 ## Feautures:
 
-1. Impressive UI ![Front Page Of the App](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/a4af534c-30a3-4790-aeea-5df62cf7bff1)
-[^2]: SignUp and Login Activity ![SignupActivity]
-[^3] Navigation Drawer ![NavigationView](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/01b78b14-b2a2-4ccc-a790-2c2afaf6cf2a)
-[^4]: Account Details ![Person Details](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/e56a1b24-7a81-4edd-af23-c68a6607780c)
-[^5]: Search Bar ![SearchView](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/752320bd-875a-43a9-ae81-aa64ea390225)
-[^6]: Alarm Manager ![Alarm Manager](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/df6fb173-3ed2-4508-ba35-3f3b58723bec)
-[^7]: TimePicker ![Timepicker](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/f106a0e0-b1dc-471e-884b-300e840f542a)
-[^8]: Completion Theme  ![completion theme](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/7af72a56-6382-4f6d-a9f2-6ad8e732bb15)
+### Impressive UI ![Front Page Of the App]
+(https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/a4af534c-30a3-4790-aeea-5df62cf7bff1)
+
+SignUp and Login Activity ![SignupActivity]
+### Navigation Drawer ![NavigationView]
+(https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/01b78b14-b2a2-4ccc-a790-2c2afaf6cf2a)
+
+### Account Details ![Person Details]
+(https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/e56a1b24-7a81-4edd-af23-c68a6607780c)
+
+### Search Bar ![SearchView]
+(https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/752320bd-875a-43a9-ae81-aa64ea390225)
+
+### Alarm Manager ![Alarm Manager]
+(https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/df6fb173-3ed2-4508-ba35-3f3b58723bec)
+
+### TimePicker ![Timepicker]
+(https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/f106a0e0-b1dc-471e-884b-300e840f542a)
+Completion Theme  ![completion theme](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/7af72a56-6382-4f6d-a9f2-6ad8e732bb15)
 
 
 > [!IMPORTANT]
