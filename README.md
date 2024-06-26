@@ -3,8 +3,6 @@
   <p>This project is aimed at Complete All The Tasks On Time...</p>
 </div>
 
-## Student MindSet Fact Give me a 3 min of time
-
 
 <div align="center">
 	<h2>Problem</h2>
