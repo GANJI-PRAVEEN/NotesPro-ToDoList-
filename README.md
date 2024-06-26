@@ -21,7 +21,10 @@ and they want to be successful in life in their field and make proud of them and
 
 ***I think this all will happen through their "hardwork" to be hardworking person in every moment***
 
-### Solution :
+<div align="center" style="font-family: Arial, sans-serif;">
+  <h2>Solution</h2>
+  <p></p>
+</div>
 	
 ***So My Idea to those people is "Planning"(ToDoList)***
 
