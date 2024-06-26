@@ -1,11 +1,13 @@
 <div align="center">
-  <h2>Welcome to My Project Notes Pro!</h2>
+  <h1>Welcome to My Project Notes Pro!</h1>
   <p>This project is aimed at Complete All The Tasks On Time...</p>
 </div>
 
 ## Student MindSet Fact Give me a 3 min of time
 
-### Problem:
+
+<div align="centre">
+	<h2>Problem</h2>
 
 **Nowdays I Saw Students like having so much knowledge and Have That Power to Hardwork and They Can Do Anything and Learn Anything
 but the very bad fact is that they are going in a loop of **compromising** this word compromise will pull legs into mud this happens through
