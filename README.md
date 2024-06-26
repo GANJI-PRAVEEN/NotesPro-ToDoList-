@@ -8,6 +8,7 @@
 
 <div align="center">
 	<h2>Problem</h2>
+</div>
  
 
 **Nowdays I Saw Students like having so much knowledge and Have That Power to Hardwork and They Can Do Anything and Learn Anything
@@ -19,7 +20,6 @@ but the good thing over here is that they want to learn something new they want 
 and they want to be successful in life in their field and make proud of them and their parents**
 
 ***I think this all will happen through their "hardwork" to be hardworking person in every moment***
-</div>
 
 ### Solution :
 	
