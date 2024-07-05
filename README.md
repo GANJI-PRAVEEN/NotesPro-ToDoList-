@@ -5,7 +5,8 @@
 
 
 <div align="center">
-	<h2>Problem</h2>
+	<h2 style="color:blue">Problem</h2>
+
 </div>
  
 
