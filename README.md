@@ -14,8 +14,8 @@ but the very bad fact is that they are going in a loop of **compromising** this 
 their unconscious mind.In this time they used to see the _motivation classes_ in the youtube,reels and other Entertainment Series and went into Depression sometimes
 but the good thing over here is that they want to learn something new they want to make difference in the society in their field**
 
-+ **So For those who having Good Mindset to do something new and to make difference among their surroundings to want to learn a big skill
-and they want to be successful in life in their field and make proud of them and their parents**
+<mark>So For those who having Good Mindset to do something new and to make difference among their surroundings to want to learn a big skill
+and they want to be successful in life in their field and make proud of them and their parents</mark>
 
 * ***I think this all will happen through their "hardwork" to be hardworking person in every moment***
 
