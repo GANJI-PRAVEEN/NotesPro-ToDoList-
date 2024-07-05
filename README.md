@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>Welcome to My Project Notes Pro!</h1>
+  <h1>Welcome to My Project Notes Pro!</h1>
   <h2>This project is aimed at Complete All The Tasks On Time...</h2>
 </div>
 
@@ -27,7 +27,7 @@ and they want to be successful in life in their field and make proud of them and
 	<h3>So My Idea to those people is "Planning"(ToDoList)</h3>
 </div>
 
-- _Planning means make notes of their tasks On Everyday Night Before bed, make notes of your tasks you have to do tomorrow make a list of the tasks and wisely do the task tomorrow_
+<em>Planning means make notes of their tasks On Everyday Night Before bed, make notes of your tasks you have to do tomorrow make a list of the tasks and wisely do the task tomorrow</em>
 
 <div align="center">
 	<h2>What does listing the tasks will help you..?</h2>
