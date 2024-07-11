@@ -92,9 +92,8 @@ So To Avoid this you have to be busy in your work and you have to keep the works
 
 ### Alarm Manager ![Alarm Manager](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/df6fb173-3ed2-4508-ba35-3f3b58723bec)
 
-### TimePicker ![Timepicker]
-(https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/f106a0e0-b1dc-471e-884b-300e840f542a)
-Completion Theme  ![completion theme](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/7af72a56-6382-4f6d-a9f2-6ad8e732bb15)
+### TimePicker ![Timepicker](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/f106a0e0-b1dc-471e-884b-300e840f542a)
+### Completion Theme  ![completion theme](https://github.com/GANJI-PRAVEEN/NotesPro-ToDoList-/assets/132834383/7af72a56-6382-4f6d-a9f2-6ad8e732bb15)
 
 <br><br>
 
