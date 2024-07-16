@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to My Project Notes Pro!</h1>
+  <h1 style="color:red">Welcome to My Project Notes Pro!</h1>
   <p style="color: blue;">This project is aimed at Complete All The Tasks On Time...</p>
 </div>
 
